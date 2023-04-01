@@ -12,4 +12,4 @@
 | racknerd.com       | 1.92$ | 1      |  512 MB | 15 GB | yes  | yes    |
 | tinykvp.com        | 1.25$ | 1      |  384 MB |  7 GB | yes  | yes    |
 | virmach.com        | 0.88$ | 0.5    |  384 MB | 10 GB | yes  |        |
-
+| ApeWeb.uk          | 2.50£ | 2      |  512 MB | 10 GB | yes  | yes    |
